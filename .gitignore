@@ -15,3 +15,6 @@ Build/
 *.pidb
 *.booproj
 Logs
+Networked Physics/obj
+Networked Physics/.idea
+*.sln
